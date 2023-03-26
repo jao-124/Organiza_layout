@@ -1,2 +1,2 @@
 # Organiza_layout
-Aplicação em VBA para organização de layouts do AutoCAD dentro de um Page Setup
+Aplicação em VBA para organização de layouts do AutoCAD dentro de um Page Setup pré-definido
